@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LINDEN-IT-NET
+- 👋 Hi, I’m Chris.
 - 👀 I’m interested in coding, trading and DevOps
 - 🌱 I’m currently learning MQL5, trading, terraform and gitlab ci/cd
 - 💞️ I’m looking to collaborate on interesting projects
